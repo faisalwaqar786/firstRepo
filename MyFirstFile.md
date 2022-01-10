@@ -37,7 +37,7 @@ This is normal text in markdown.
 >This is block of special texts
 
 # 3- Line Breaks
-This is 40 days long course data science with python AKA
+This is 40 days very long course data science with python AKA
 python_ka_chilla with Baba_Ammar.\
 This is second line.
 
